@@ -1,0 +1,166 @@
+.form-main {
+  display: flex;
+  margin-top: 7%;
+  align-items: center;
+  justify-content: center;
+}
+.sign {
+  margin-top: 2%;
+}
+.form-container {
+  box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.1);
+  align-self: center;
+  display: flex;
+  padding: 1.25rem 2rem;
+  justify-content: center;
+  background-color: #1b262c;
+  border: 2px solid #01d2ed;
+  border-radius: 5px;
+}
+.signup-form {
+  /* width: 300px; */
+  color: #c5e0e4;
+}
+.form-head {
+  font-weight: 500;
+  color: #01d2ed;
+  margin: 10px;
+  text-align: center;
+}
+
+.submit-btn {
+  width: 85%;
+}
+
+.new-ac {
+  background-color: transparent;
+  font-family: "Montserrat", sans-serif;
+  border: none;
+  font-size: 1rem;
+  padding-top: 5px;
+  cursor: pointer;
+}
+.new-ac:hover {
+  color: #24292c;
+  text-decoration: 1px solid #24292c underline;
+}
+
+.label-inp {
+  margin-bottom: 1px;
+  color: #c5e0e4;
+}
+
+.pass-rem {
+  display: flex;
+  justify-content: space-between;
+}
+
+.h4 {
+  font-weight: 300;
+}
+
+.align-justify-center {
+  align-items: center;
+  justify-content: center;
+}
+
+.margin-30 {
+  margin-top: 1.875rem;
+  margin-bottom: 1.875rem;
+}
+
+.primary-btn,
+.primary-btn-border,
+.secondary-btn-border {
+  padding: 5px;
+}
+
+.button {
+  background-color: transparent;
+}
+
+.link-style {
+  text-decoration: none;
+}
+
+.link-color {
+  color: #c5e0e4;
+}
+
+.link-color-primary {
+  color: #c5e0e4;
+}
+
+.new-btn {
+  border: none;
+  border-radius: 5px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  margin: 3px;
+  padding: 10px;
+  font-weight: 500;
+  text-decoration: 1px solid #24292c underline;
+}
+fieldset {
+  border: 1px solid #c5e0e4;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 5px;
+}
+.input {
+  padding: 5px;
+  width: 250px;
+  background-color: transparent;
+  border: none;
+  color: #c5e0e4;
+  font-weight: 600;
+}
+.input:focus {
+  outline: none;
+}
+.forgot-pass {
+  background-color: transparent;
+  border: none;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  color: #c5e0e4;
+  cursor: pointer;
+}
+.login-btn {
+  width: 80%;
+  margin: 5px;
+  padding: 5px;
+  cursor: pointer;
+  background-color: #c5e0e4;
+  border: none;
+  border-radius: 5px;
+  color: #12191d;
+  font-size: 1.1rem;
+}
+.login-btn:hover {
+  background-color: #12191d;
+  color: #c5e0e4;
+  border-bottom: 2px solid #c5e0e4;
+}
+.remem-me {
+  color: #c5e0e4;
+}
+.btn-div {
+  text-align: center;
+}
+.new-ac-btn {
+  width: 80%;
+  margin: 5px;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  background-color: #12191d;
+  color: #c5e0e4;
+}
+.new-ac-btn:hover {
+  color: #12191d;
+  background-color: #c5e0e4;
+  border-bottom: 2px solid #12191d;
+}

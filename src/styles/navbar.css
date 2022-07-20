@@ -1,0 +1,51 @@
+/* root {
+  --primary-color: #01d2ed;
+  --bg-color: #121212;
+  --secondary-color: #c5e0e4;
+  --ternary-color: rgb(2, 46, 42);
+  --shadow-color: rgba(119, 174, 206, 0.4);
+  --primary-dark: rgb(63 239 219);
+  --ternary-dark: rgb(5, 88, 83);
+  --dark-blue: rgb(0, 0, 0, 0.5);
+  --black: rgb(0, 0, 0, 0.8);
+  --scroll-color: #07464e;
+  --green: rgb(14 201 56);
+  --red: rgb(226, 22, 22);
+} */
+.nav-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+  background-color: #0f202e;
+  border-bottom: 2px solid #01d2ed;
+}
+.nav-left {
+  display: flex;
+}
+.nav-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.nav-icon {
+  color: #c5e0e4;
+}
+.brand-name {
+  color: #c5e0e4;
+  font-size: 2rem;
+  margin: 0px 10px;
+  padding: 0px;
+}
+.brand-quote {
+  font-size: small;
+  margin: 0px 10px;
+}
+.nav-signin {
+  border: 1px solid #01d2ed;
+  padding: 1rem;
+  font-size: 1rem;
+  border-radius: 0.6rem;
+  color: #c5e0e4;
+  background-color: rgba(63, 239, 218, 0.205);
+}

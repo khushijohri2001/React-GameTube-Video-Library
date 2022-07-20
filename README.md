@@ -1,18 +1,16 @@
-<h1 align = "center">
-  <br />
-  Shoonya
-  <br />
+<h1>
+ GameTube
 </h1>
 
-<h3 align="center">Shoonya is a video library for cosmos related stuff. Fall into the un-ending universe and know about it in depth. </h3>
+<h3 align="center">GameTube is a video library for gaming related stuff.  </h3>
 
 <p align="center">
-  <a href="https://shoonya-cosmos.netlify.app/">Check Out the Website</a>
+  <a href="https://gametube-video-library.netlify.app/">Check Out the Website</a>
 <br />
 
 ##  _How To Use_
 
-Explore [Shoonya](https://shoonya-cosmos.netlify.app/) and start your journey of where do you actually live.
+Explore [GameTube](https://gametube-video-library.netlify.app//) and start your journey to the gaming world.
 
 <br />
 
@@ -37,10 +35,5 @@ Explore [Shoonya](https://shoonya-cosmos.netlify.app/) and start your journey of
 
 <br />
 
-_DROP A ⭐ IF YOU LIKED IT._
 
-### _Connect With Me_
-
-- LinkedIn [@jiyaagrawal](https://www.linkedin.com/in/jiyaagrawal/) 
-- Twitter [@jiya_agrawal2](https://twitter.com/jiya_agrawal2)
 
